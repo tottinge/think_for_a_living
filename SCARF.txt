@@ -1,0 +1,16 @@
+From David Rock's book /Your Brain At Work/ comes the social threats that shut
+down your long-term memory access, short-term memory access, and much of the
+reasoning (the "slow" system) of your prefrontal cortex.
+
+Status
+Certainty
+Autonomy
+Relatedness
+Fairness
+
+Threats to these social dynamics (fear of losing face, fear of losing a good
+working relationship, fear of being controlled) reduce the ability of people 
+to engage intellectually with their work.
+
+We don't always get benefit when developers engage emotionally, especially
+when the emotion is fear, flight, panic, anger, resentment.

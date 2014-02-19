@@ -1,0 +1,20 @@
+http://en.wikipedia.org/wiki/Bluma_Zeigarnik
+
+"people remember uncompleted or interrupted tasks better than completed tasks"
+
+Essentially, they feel the incompletedness of things, and will tend
+to not want to switch tasks while one is begun and unfinished.
+
+Finished work we can easily forget about.
+
+Zeigarnik is a student of Kurt Lewin (another tie-in!).
+
+There is some unrepeatability for this effect, and some controversy. But
+Lewin's idea stands here: "a task that has already been started establishes a
+task-specific tension, which improves cognitive accessibility of the relevant
+contents." and "in the case of task interruption the reduction of tension 
+is being impeded."
+
+Ruud brought up the correlation between this and the cost of task-switching.
+
+More info here?

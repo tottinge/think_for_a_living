@@ -1,0 +1,12 @@
+JB Rainsberger has been famously referring to risk as 
+likelihood * cost. 
+
+
+On a forum, he suggested:
+    The impulse to "never let this happen again" dominates so easily, so we get
+    paid to ask, "What would have to be true for this not to be such a big
+    problem next time it happens?"
+
+Notice that this is the wrong kind of safety, the safety from risk.
+It may be that the right kind of safety is "affordable consequences."
+

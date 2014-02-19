@@ -1,0 +1,30 @@
+Liz Keogh posted an article in january of 2014 talking about BDD. 
+The question was whether you can use BDD with legacy systems. 
+She said:
+  "BDD is the art of using examples in conversation
+  to illustrate behavior."
+
+She undersold the practice of automating the tests and executing them.
+If there is value in half of the practice, why not concentrate on 
+that value rather than insisting on the the whole enchilada. 
+
+Later, Liz says:
+    "Examples are easy to discuss, but it's also easy to decide that they don't
+    matter, or that you can worry about that scenario later, or that you want
+    different behaviour. It's harder to do that when you're talking about tests
+    or specifications, and it's harder still when the behaviour you're
+    discussing already exists.."
+
+Maybe one advantage of automating tests come from eliminating the decision
+of whether or not you should write up the tests (habits and decision fieldstone)
+
+I remembered that Deere developers had opted to write tests, but
+not automate them. That seemed weird, because they were getting partial 
+value for doing a partial process. But they thought it was still a
+good practice.
+
+Is this decent partial step? 
+
+Does it make sense to do partial process?
+
+

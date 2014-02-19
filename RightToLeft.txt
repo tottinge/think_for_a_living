@@ -1,0 +1,25 @@
+The idea of "pull" in lean is that you pull from upstream sources
+and you create a queue for downstream to pull from. Rather than
+cramming work and materials from the front of the queue, we pull
+from the rear.
+
+I've seen this work in operating a Kanban board. If you concentrate
+on the "done" column first, then you're always trying to find a way
+to reduce WIP and get more delivered product.  Too many people focus
+on the left column, and start by pushing as much as possible into 
+WIP, clearing WIP in order to make room to push more. 
+
+This year, Amr and I were teaching in Abingdon, UK for Schlumberger
+when it became clear that the "constraint" in a process was the 
+inventory queue closest to the receiving customer. If you elevate
+that constraint, you automagically get more flow. Then the next
+most-upstream queue is taken.
+
+This is nice, because it's a focusing activity. It's great because
+subsequent changes will not re-do or undo the work you do downstream.
+
+Eventually you will have great flow inside the pipe, but you'll see 
+inventory piled up either before or after the pipe (maybe both).
+
+I think this is so simple and should be obvious once you know it.
+It seems profound in its simplicity.
